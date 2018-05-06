@@ -20,7 +20,7 @@
     title_ru: Комедиант
     text_ru: Теперь вам известны основы комедии.
     image: /assets/achievements/anime/comedy_2.jpg
-    border_color: "#CD9575"
+    border_color: "#8B0000"
 
 - <<: *defaults
   level: 3
