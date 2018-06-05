@@ -468,7 +468,7 @@
       - 987
   metadata:
     title_ru: Так мужественно, что не вздохнуть 
-    text_ru: Ваши первые шаги в жанре, а борода уже не сбривается.
+    text_ru: Первые шаги в жанре, а борода уже не сбривается.
     topic_id: 227419
     image: /assets/achievements/anime/gar_1.jpg
     border_color: "#755C48"
@@ -478,7 +478,7 @@
   threshold: 20%
   metadata:
     title_ru: Буря тестостерона 
-    text_ru: Вы больше не помещаетесь в зеркалах.
+    text_ru: Больше не помещаетесь в зеркалах.
     image: /assets/achievements/anime/gar_2.jpg
     border_color: "#c79001"
 
